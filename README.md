@@ -28,14 +28,14 @@ Execute the program using runserver command.
 <html>
     <head>
         <title>
-            Haarish's page  
+            Dharanish's page 
         </title>
       
     </head>
     <body>
         <center>
         <img src="logo.png" width="600px">
-        <h2> SLOT TIME TABLE Haarish(212223230067)</h2>
+        <h2> SLOT TIME TABLE Dharanish(212223240027)</h2>
 
         <table border="5" bgcolor="brown" >
             <tr bgcolor="beige">
@@ -146,7 +146,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot (36)](https://github.com/user-attachments/assets/f71403c6-926e-4672-977a-a73de77a42a8)
+![Uploading Screenshot 2024-10-22 092911.png…]()
+
 
 
 
